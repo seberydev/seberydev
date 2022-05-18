@@ -1,6 +1,6 @@
-### Software Developer
-# Sebery
-#### Focused on frontend technologies like React and making videogames with Unity.
+### Web Developer | Game Developer
+# SeberyDev
+#### Software developer focused on creating fullstack web applications and videogames.
 
 ![Alt Text](https://i.imgur.com/cTFDN2o.gif)
 
@@ -25,7 +25,7 @@
   
   <a href="https://twitter.com/seberydev" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/seberydev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://github.com/seberydev" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href="https://www.facebook.com/seberydev" target="_blank"><img src="https://img.shields.io/badge/Facebook-100000?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/seberydev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	
   
